@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.21079963)
+
 Framework 1.1: Practical Applications — Aging and Cancer
 Author: Yuri Dmitrochenko, MD — Independent Researcher, Israel
 Status: Working draft, 2026
