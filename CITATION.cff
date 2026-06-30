@@ -1,0 +1,10 @@
+cff-version: 1.2.0 
+message: "If you use this draft, please cite it as below." 
+authors: 
+  - family-names: Dmitrochenko 
+    given-names: Yuri 
+title: "Framework_1.1" 
+version: 1.0.0 
+doi: "10.5281/zenodo.21079963" 
+date-released: 2026-06-30 
+url: "https://github.com"
