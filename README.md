@@ -30,3 +30,15 @@ Citation
 Dmitrochenko Y. Framework 1.1: Practical Applications — Aging and Cancer. Independent Researcher, Israel. 2026. (DOI pending Zenodo registration.)
 Acknowledgments
 The author thanks the open scientific community whose published data made this synthesis possible, and his two AI research assistants, Claude (Anthropic) and ChatGPT, for their role in literature search, formalization, and manuscript preparation.
+
+## License & Commercial Rights
+
+This project is dual-licensed for open-access development and commercial publication:
+
+* **Free Draft Version:** The content in this repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org). You are free to share, copy, and read this material for personal, non-commercial purposes, provided you give appropriate credit to **Yuri Dmitrochenko**.
+* **Commercial Version:** Any commercial use, including selling or distributing this book on commercial platforms (such as Amazon), is strictly prohibited without prior written permission from the author.
+
+### How to Cite
+You can cite this project using our permanent Concept DOI:
+[![DOI](https://zenodo.org)](https://doi.org)
+
